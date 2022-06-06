@@ -1,12 +1,12 @@
 {
-  "name": "@uniswap/v3-core",
-  "description": "🦄 Core smart contracts of Uniswap V3",
+  "name": "@cndllabs/v3-core",
+  "description": "🦄 Core smart contracts of Carthage V3",
   "license": "BUSL-1.1",
   "publishConfig": {
     "access": "public"
   },
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "homepage": "https://candlelabs.org",
   "keywords": [
     "uniswap",
     "core",
